@@ -1,2 +1,2 @@
-am creat un fisier de test 
-am adaugat o linie 
+Nu am creat un fisier de test 
+o sa adaug o noua linie
